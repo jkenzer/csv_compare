@@ -1,4 +1,6 @@
 # csv_compare
+Python Script
+
 Compares two CSV files and outputs a third file with notes on which records are not in the master file
 
 # TODO
